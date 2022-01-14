@@ -4,3 +4,11 @@ This is a Pony implementation of a JSON-RPC 2.0 server. When looking at how this
 
 ## NOT COMPLETE
 This is a work in progress. Please don't try and use this yet.
+
+## Installation
+
+* Install [corral](https://github.com/ponylang/corral)
+* `corral add ggithub.com/mfelsche/pony-json-rpc.git --version master`
+* `corral fetch` to fetch your dependencies
+* `use "jsonrpc"` to include this package
+* `corral run -- ponyc` to compile your application

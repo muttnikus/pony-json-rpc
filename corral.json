@@ -1,0 +1,19 @@
+{
+  "packages": [
+    "jsonrpc"
+  ],
+  "deps": [
+    {
+      "locator": "github.com/muttnikus/pony-immutable-json.git",
+      "version": "master"
+    }
+  ],
+  "info": {
+    "description": "JSON-RPC 2.0 Server Implementation in Pony",
+    "homepage": "https://github.com/mfelsche/pony-json-rpc",
+    "license": "",
+    "documentation_url": "https://github.com/mfelsche/pony-json-rpc",
+    "version": "0.1.0",
+    "name": "jsonrpc"
+  }
+}

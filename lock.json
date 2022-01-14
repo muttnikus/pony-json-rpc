@@ -1,0 +1,8 @@
+{
+  "locks": [
+    {
+      "locator": "github.com/muttnikus/pony-immutable-json.git",
+      "revision": "master"
+    }
+  ]
+}
